@@ -19,7 +19,7 @@ Base = automap_base()
 Base.prepare(autoload_with=engine, reflect=True)
 
 # Save reference to the table
-print(Base.classes.keys())
+# print(Base.classes.keys())
 Place = Base.classes.place
 Fast_food = Base.classes.fast_food
 Summary = Base.classes.summary
