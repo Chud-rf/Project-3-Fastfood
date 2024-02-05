@@ -2,7 +2,11 @@ html,
 body,
 #map-id {
   height: 100%;
+<<<<<<< Updated upstream
   padding: 0;
+=======
+  padding: 20px;
+>>>>>>> Stashed changes
   margin: 0;
 }
 
